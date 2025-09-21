@@ -1,4 +1,4 @@
-# 🛡Build a Secure Google Cloud Network
+# Build a Secure Google Cloud Network
 
 **Duración:** 1 hora 15 minutos | **Puntos:** +33 pts | **Nivel:** Intermediate
 
