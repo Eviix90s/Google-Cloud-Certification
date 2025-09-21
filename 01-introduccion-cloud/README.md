@@ -8,6 +8,17 @@
 
 ## Contenido
 
+### Conceptos aprendidos hoy (21/09/2025)
+- Cloud computing permite acceder a recursos de TI bajo demanda
+- Ventajas principales: escalabilidad automática, costos variables, rapidez
+- Google Cloud tiene más de 200 servicios disponibles
+
+### Comandos básicos aprendidos
+```bash
+gcloud auth login
+gcloud config list
+gcloud projects list
+
 ### Apuntes
 - [ ] Conceptos fundamentales
 - [ ] Modelos de servicio
