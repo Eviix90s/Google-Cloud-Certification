@@ -1,4 +1,4 @@
-# 🌤 Google Cloud Computing Foundations Certificate - INFOTEC
+# ☁️ Google Cloud Computing Foundations Certificate - INFOTEC
 
 ## Sobre este repositorio
 
@@ -76,7 +76,3 @@ Desarrollar las competencias necesarias para convertirme en **DevOps Cloud Engin
 - **Programa**: Google Cloud Computing Foundations Certificate
 - **Partner**: INFOTEC
 - **Objetivo**: DevOps Cloud Engineer
-
----
-
-> *"El conocimiento en cloud computing abre puertas infinitas en tecnología"* 🚀
